@@ -7,3 +7,7 @@ Nesse projeto vamos:
 * vamos aprender a usar os comandos:
   * `git status`, `git add`, `git commit -m "mensagem do commit`, `git pull`, `git push`;
 * vamos aprender a publicar noosso site.
+
+
+
+
