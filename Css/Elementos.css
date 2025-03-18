@@ -1,0 +1,87 @@
+.container { 
+    color: #0669de;
+}
+
+.font {
+    font-family: "JetBrains Mono", 'Lucida Console', Monaco, monospace;
+    margin-left: 40px;
+    display: contents;
+    align-items: center;
+   
+}
+
+.g1 {
+     color: #c4170c;
+
+}
+
+.dog {
+    color: #06aa48;
+}
+
+.cat {
+    color: #ff6700;
+}
+
+.gg {
+    color: #fb0334;
+}
+
+.pv {
+color: #C4170C;
+}
+
+.pt {
+    color: #1E4C9A;
+}
+
+    .pj{
+        color: #006767;
+    }
+
+.cabecalho {
+   background-color: rgb(196, 23, 12);
+   height: 50px;
+   padding: 0px 24px;
+   
+  
+    }
+
+
+.svg { 
+        width: 30px;
+        text-align: center;
+        margin-top: 10px;
+        margin-left: 8px;
+         }
+
+ 
+    
+  .texto {
+    width: 30px;
+    color: #FFFF;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 210px;
+    
+    
+  }
+
+  .titulo{ 
+font-family: 'Courier New', Courier, monospace;
+  }
+
+  .subtitulo {
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+     
+  }
+
+  .economia {
+    font-size: 24px;
+    line-height: 1.1;
+    font-weight: 300;
+    color: var(--glb-contrast-primary-color, #fff) !important;
+    text-align: center;
+
+  }
