@@ -1,0 +1,4 @@
+Nome Site:
+página 1: Login (https://accounts.google.com/v3/signin/identifier?authuser=0&continue=https%3A%2F%2Fmyaccount.google.com%2F%3Futm_source%3Dsign_in_no_continue%26pli%3D1&ec=GAlAwAE&hl=pt_BR&service=accountsettings&flowName=GlifWebSignIn&flowEntry=AddSession&dsh=S1043051766%3A1745364245568658)
+página 2: Pág Principal, onde vamos ter opções de escolha (https://mangaonline.biz/)
+página 3: A página da opção que você escolheu na página anterior(https://mangaonline.biz/capitulo/one-piece-capitulo-1123/)
